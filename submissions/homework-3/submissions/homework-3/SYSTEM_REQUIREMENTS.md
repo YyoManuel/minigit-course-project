@@ -215,5 +215,6 @@
 | UR-GIT-08 | SR-04, SR-09 | AT-04, AT-09 | VM-04, VM-09 |
 | UR-GIT-09 | SR-04, SR-09, SR-12 | AT-04, AT-09, AT-12 | VM-04, VM-09, VM-12 |
 
-| UR-GIT-09 | A student developer shall be able to retry an operation after a failure without losing ordinary project files oalready recorded checkpoint. | UN-GIT-07 |
+
+
 ## Functional System Requirements
